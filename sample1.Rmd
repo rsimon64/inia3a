@@ -2,7 +2,9 @@
 title: "sample1"
 author: "Reinhard Simon"
 date: "3/6/2019"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
